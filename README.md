@@ -86,7 +86,7 @@ Caso tenha interesse em  disciplinas que utilizem R, [veja este documento](https
 - [Criar gráficos com Ggplot2](https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf) - Inglês
 - [LaTeX](https://wch.github.io/latexsheet/) - Inglês
 - [Expressões regulares](https://github.com/rstudio/cheatsheets/raw/master/regex.pdf) - Inglês
-- Pode conferir também outras cheatsheets em inglês no site: https://www.rstudio.com/resources/cheatsheets/ 
+- Pode conferir também outras cheatsheets em inglês no [site](https://www.rstudio.com/resources/cheatsheets/)
 
 ### Outros livros sobre R:
 - [Biblioteca do R-Project, livros em diversas línguas](https://www.r-project.org/doc/bib/R-books.html)
