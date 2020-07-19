@@ -9,38 +9,36 @@ Caso tenha interesse em  disciplinas que utilizem R, [veja este documento](https
 ### - [Apresentações dos Meetups do R-Ladies São Paulo](https://github.com/rladies/meetup-presentations_sao-paulo/blob/master/README.md)
 
 ### - Curso-R
-- Material de estudo: http://material.curso-r.com/
-- Blog: https://www.curso-r.com/blog/
+- [Material de estudo](http://material.curso-r.com/)
+- [Blog](https://www.curso-r.com/blog/)
 
-*A Curso-R também oferece cursos presenciais: http://curso-r.com/
+
 
 ### - Disciplina Introdução à Programação e Ferramentas Computacionais para as Ciências Sociais
 - Esse material é disponibilizado no GITHUB pelo Leonardo Barone. 
-- Material gratuito;
-- Link: https://github.com/leobarone/FLS6397_2018
+- [Material gratuito](https://github.com/leobarone/FLS6397_2018)
 
 ### - Disciplina CE083 - Estatística Computacional I
 - Esse material é disponibilizado no GITHUB pelo  Fernando de Pol Mayer. 
-- Material gratuito;
-- Link: http://leg.ufpr.br/~fernandomayer/aulas/ce083/
+- [Material gratuito](http://leg.ufpr.br/~fernandomayer/aulas/ce083/)
 
 ### - Materiais disponibilizados por professores do Departamento de Estatística da UFPR
-- Material gratuito;
-- Mineraçao de texto: http://leg.ufpr.br/~walmes/ensino/mintex/
-- Machine Learning: http://leg.ufpr.br/~walmes/ensino/ML/
-- Pesquisa reproduzivel: http://leg.ufpr.br/~walmes/ensino/pesq-reprod/
-- Estatistica computacional/simulaçao: http://leg.ufpr.br/~walmes/ensino/EC2/
-- Analise de sobrevivencia: https://docs.ufpr.br/~giolo/Livro/
-- Regressão: https://docs.ufpr.br/~giolo/CE071/Codigos/Comandos_CE071.html
-- Dados categoricos: https://docs.ufpr.br/~giolo/LivroADC/
-- Modelos lineares generalizados: https://docs.ufpr.br/~taconeli/CE22518/CE22518.html e https://docs.ufpr.br/~taconeli/CE06218/CE06218.html
+
+- [Mineração de texto](http://leg.ufpr.br/~walmes/ensino/mintex/)
+- [Machine Learning](http://leg.ufpr.br/~walmes/ensino/ML/)
+- [Pesquisa reproduzível](http://leg.ufpr.br/~walmes/ensino/pesq-reprod/)
+- [Estatística computacional/simulação](http://leg.ufpr.br/~walmes/ensino/EC2/)
+- [Analise de sobrevivencia](https://docs.ufpr.br/~giolo/Livro/)
+- [Regressão](https://docs.ufpr.br/~giolo/CE071/Codigos/Comandos_CE071.html)
+- [Dados categóricos](https://docs.ufpr.br/~giolo/LivroADC/)
+- [Modelos lineares generalizados](https://docs.ufpr.br/~taconeli/CE22518/CE22518.html e https://docs.ufpr.br/~taconeli/CE06218/CE06218.html)
 
 
 ### - Livro: Ciência de Dados com R – Introdução
 - Livro disponibilizado gratuitamente em PDF;
 - Referência: Instituto Brasileiro de Pesquisa e Análise de Dados;
 - Ano: 2018
-- Link: https://www.ibpad.com.br/o-que-fazemos/publicacoes/introducao-ciencia-de-dados-com-r
+- [Link](https://www.ibpad.com.br/o-que-fazemos/publicacoes/introducao-ciencia-de-dados-com-r)
 
 
 ### - Bookdown - Introdução a R para Visualização e Apresentação de Dados
@@ -48,26 +46,26 @@ Caso tenha interesse em  disciplinas que utilizem R, [veja este documento](https
 - Material disponibilizado gratuitamente
 - Ano: 2018
 - Autor: Sillas Gonzaga
-- Link: http://sillasgonzaga.com/material/curso_visualizacao/
+- [Link](http://sillasgonzaga.com/material/curso_visualizacao/)
 
 ## Materiais em Inglês
 
 ### - Livro: Hands-On Programming with R
 - Livro disponibilizado gratuitamente em bookdown; 
 - Autor: Garrett Grolemund
-- Link: https://rstudio-education.github.io/hopr/
+- [Link](https://rstudio-education.github.io/hopr/)
 - Conteúdo: básico do R e RStudio, Pacotes, objetos, tipos de dados, funções, etc.
 
 ### - Livro: R for Data Science
 - Livro disponibilizado gratuitamente em bookdown; 
 - Autor: Garrett Grolemund e Hadley Wickham
-- Link: http://r4ds.had.co.nz/
+- [Link](http://r4ds.had.co.nz/)
 - Conteúdo: diversas funções do pacote Tidyverse, etc.
 
 
 ### - Material do curso "Introduction to R for journalists"
 - O curso já aconteceu, mas o material está disponível.
-- Link: https://journalismcourses.org/intro-r.html
+- [Link](https://journalismcourses.org/intro-r.html)
 - Conteúdo: Programming in R, Wrangling Data, Visualizing Data, Spatial Analysis, Publishing for Reproducibility.
 
 ### Cursos: [Programa de cursos integrados Statistics with R]( https://pt.coursera.org/specializations/statistics)
@@ -90,5 +88,5 @@ Caso tenha interesse em  disciplinas que utilizem R, [veja este documento](https
 - Pode conferir também outras cheatsheets em inglês no site: https://www.rstudio.com/resources/cheatsheets/ 
 
 ### Outros livros sobre R:
-- Biblioteca do R-Project, livros em diversas línguas: https://www.r-project.org/doc/bib/R-books.html
+- [Biblioteca do R-Project, livros em diversas línguas](https://www.r-project.org/doc/bib/R-books.html)
 
