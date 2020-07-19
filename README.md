@@ -31,7 +31,8 @@ Caso tenha interesse em  disciplinas que utilizem R, [veja este documento](https
 - [Analise de sobrevivencia](https://docs.ufpr.br/~giolo/Livro/)
 - [Regressão](https://docs.ufpr.br/~giolo/CE071/Codigos/Comandos_CE071.html)
 - [Dados categóricos](https://docs.ufpr.br/~giolo/LivroADC/)
-- [Modelos lineares generalizados](https://docs.ufpr.br/~taconeli/CE22518/CE22518.html e https://docs.ufpr.br/~taconeli/CE06218/CE06218.html)
+- [Modelos lineares generalizados I](https://docs.ufpr.br/~taconeli/CE22518/CE22518.html)
+- [Modelos lineares generalizados II](https://docs.ufpr.br/~taconeli/CE06218/CE06218.html)
 
 
 ### - Livro: Ciência de Dados com R – Introdução
